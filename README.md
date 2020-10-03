@@ -7,6 +7,9 @@ Unity 2019.4.1f1
 # WebGLのサンプル
 https://unityroom.com/games/mugitea-menuinfopackage
 
+# サンプル動画
+https://twitter.com/tea59595959/status/1312463506248089601
+
 # 導入方法
 .unitypackageをAssetsフォルダに投げるだけ
 
